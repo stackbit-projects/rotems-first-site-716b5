@@ -8,7 +8,6 @@ sections:
       General comments from 1st impression 
     media:
       type: ImageBlock
-      url: /images/hero-4.jpg
       caption: Team meeting
       altText: Hero section image
     styles:
