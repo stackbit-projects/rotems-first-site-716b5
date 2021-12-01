@@ -347,7 +347,7 @@ sections:
         justifyContent: center
         borderRadius: none
         borderWidth: 0
-        borderStyle: double
+        borderStyle: none
         borderColor: border-dark
       title:
         textAlign: left
