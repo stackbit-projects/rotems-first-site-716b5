@@ -39,7 +39,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     variant: variant-b
-    colors: colors-c
+    colors: colors-h
     title: Latest news
     subtitle: Latest blog posts section example
     actions:
