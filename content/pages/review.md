@@ -4,7 +4,8 @@ sections:
   - type: HeroSection
     colors: colors-f
     title: Review
-    text: You should join us.
+    text: |
+      General comments from 1st impression 
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
