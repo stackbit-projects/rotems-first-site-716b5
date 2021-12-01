@@ -323,7 +323,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     text: >+
       ## “We sometimes write things. You should read it, it might shed some
       light on why we’re doing what we’re doing”
