@@ -3,7 +3,7 @@ title: Review
 sections:
   - type: HeroSection
     colors: colors-f
-    title: We’re growing fast
+    title: Review
     text: You should join us.
     media:
       type: ImageBlock
